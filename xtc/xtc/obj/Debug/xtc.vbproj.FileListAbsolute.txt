@@ -1,0 +1,10 @@
+c:\users\phantom\documents\visual studio 2017\Projects\xtc\xtc\bin\Debug\xtc.exe.config
+c:\users\phantom\documents\visual studio 2017\Projects\xtc\xtc\bin\Debug\xtc.exe
+c:\users\phantom\documents\visual studio 2017\Projects\xtc\xtc\bin\Debug\xtc.pdb
+c:\users\phantom\documents\visual studio 2017\Projects\xtc\xtc\bin\Debug\xtc.xml
+c:\users\phantom\documents\visual studio 2017\Projects\xtc\xtc\obj\Debug\xtc.vbprojResolveAssemblyReference.cache
+c:\users\phantom\documents\visual studio 2017\Projects\xtc\xtc\obj\Debug\xtc.Resources.resources
+c:\users\phantom\documents\visual studio 2017\Projects\xtc\xtc\obj\Debug\xtc.vbproj.GenerateResource.Cache
+c:\users\phantom\documents\visual studio 2017\Projects\xtc\xtc\obj\Debug\xtc.exe
+c:\users\phantom\documents\visual studio 2017\Projects\xtc\xtc\obj\Debug\xtc.xml
+c:\users\phantom\documents\visual studio 2017\Projects\xtc\xtc\obj\Debug\xtc.pdb

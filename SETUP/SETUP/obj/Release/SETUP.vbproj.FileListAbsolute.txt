@@ -1,0 +1,10 @@
+c:\users\phantom\documents\visual studio 2017\Projects\SETUP\SETUP\bin\Release\SETUP.exe.config
+c:\users\phantom\documents\visual studio 2017\Projects\SETUP\SETUP\bin\Release\SETUP.exe
+c:\users\phantom\documents\visual studio 2017\Projects\SETUP\SETUP\bin\Release\SETUP.pdb
+c:\users\phantom\documents\visual studio 2017\Projects\SETUP\SETUP\bin\Release\SETUP.xml
+c:\users\phantom\documents\visual studio 2017\Projects\SETUP\SETUP\obj\Release\SETUP.vbprojResolveAssemblyReference.cache
+c:\users\phantom\documents\visual studio 2017\Projects\SETUP\SETUP\obj\Release\SETUP.Resources.resources
+c:\users\phantom\documents\visual studio 2017\Projects\SETUP\SETUP\obj\Release\SETUP.vbproj.GenerateResource.Cache
+c:\users\phantom\documents\visual studio 2017\Projects\SETUP\SETUP\obj\Release\SETUP.exe
+c:\users\phantom\documents\visual studio 2017\Projects\SETUP\SETUP\obj\Release\SETUP.xml
+c:\users\phantom\documents\visual studio 2017\Projects\SETUP\SETUP\obj\Release\SETUP.pdb
